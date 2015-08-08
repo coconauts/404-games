@@ -9,7 +9,7 @@ Copy the folder for your desired game, and then use an `iframe`
 pointing to the relative path of that folder.
 
     <iframe src="path/to/space-invaders" id='404-game'
-width="512" height="500" scrolling="none" frameborder="0"></iframe>
+            width="512" height="500" scrolling="none" frameborder="0"></iframe>
 
 ## I can't decide, can't I have a random one every time?
 
